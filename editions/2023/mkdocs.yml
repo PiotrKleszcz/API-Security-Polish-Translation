@@ -21,3 +21,5 @@ extra:
       lang: es
     - name: हिन्दी (Hindi)
       lang: hi
+    - name: Polski
+      lang: pl
