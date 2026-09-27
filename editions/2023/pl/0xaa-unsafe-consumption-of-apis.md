@@ -81,7 +81,7 @@ SQL, zakładając, że nazwa repozytorium to bezpieczne dane wejściowe.
 * Zawsze waliduj i prawidłowo sanityzuj dane otrzymane ze zintegrowanych API
   przed ich użyciem.
 * Utrzymuj listę dozwolonych, dobrze znanych lokalizacji, do których
-  zintegrowane API mogą przekierowywać Twoje API: nie podążaj bezrefleksyjnie
+  zintegrowane API mogą przekierowywać twoje API: nie podążaj bezrefleksyjnie
   za przekierowaniami.
 
 
